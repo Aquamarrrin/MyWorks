@@ -1,0 +1,9 @@
+= fact 1
+= b 1
+= c 1
+.d
+:m1
+*fact b fact
++b c b
+if b<=d m1
+!fact

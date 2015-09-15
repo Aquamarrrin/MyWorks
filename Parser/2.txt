@@ -1,0 +1,12 @@
+= c 8
+= f 1
+=s 2
++f s c
++s s c
++s f s
++s f s
+:wer
+!s
++s f s
+!s
+if s != 8 wer

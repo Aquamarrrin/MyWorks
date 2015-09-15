@@ -1,0 +1,24 @@
+.a
+.b
+.c
+=d 0
+=k 0
+=m 4
+=x1 0
+=x2 0
+=tmp1 2
+=tmp3 -1
+*b b k
++k d d
+*a c k
+*m k k
+-d k d
+sq d j
+*a tmp1 a
+-j b x1
+/x1 a x1
+!x1
+*j tmp3 j
+-j b x2
+/x2 a x2
+!x2

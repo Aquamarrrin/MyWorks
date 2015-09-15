@@ -1,0 +1,7 @@
+.a
+.b
+.c
+=sum 0
++a b sum
++sum c sum
+!sum
